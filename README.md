@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fatmanuraydemir
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 You can reach me using my e-mail (aydmrfatmanur@gmail.com)
